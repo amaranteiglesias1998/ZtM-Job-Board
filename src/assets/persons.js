@@ -15159,5 +15159,21 @@ export const data = {
       country: "India"
     }
   }
+      ,{
+    id: uuidv4(),
+    name: "Amarante Iglesias Mares",
+    img: "https://github.com/amaranteiglesias1998.png",
+    links: {
+      website: "https://amaranteiglesias1998.github.io/",
+      linkedin: "https://www.linkedin.com/in/amarante-iglesias-mares-17b7a9197/",
+      github: "https://github.com/amaranteiglesias1998"
+    },
+    jobTitle: "Computer Engineer in IT",
+    location: {
+      city: "Gijón",
+      state: "Asturias",
+      country: "Spain"
+    }
+  }
   ],
 }
